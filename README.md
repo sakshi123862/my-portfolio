@@ -1,2 +1,29 @@
-# my-portfolio
-This is my personal portfolio created to practice HTML and CSS. I designed it to be clean, professional, and fully responsive. In the future, I plan to enhance it by adding JavaScript to make it interactive. Feedback and suggestions are welcome!
+# Sakshi's Portfolio
+
+This is my personal portfolio website, built to practice **HTML** and **CSS**.  
+Fully responsive, simple, and professional in design.
+
+## Sections
+
+- Home / Intro  
+- About Me  
+- Skills  
+- Projects  
+- Connect  
+- Motto  
+- Feedback
+
+## Next Steps
+
+- Add **JavaScript** for interactivity (form validation, animations, dynamic projects).
+
+## Connect
+
+- Email: [sakshimane1107@gmail.com](mailto:sakshimane1107@gmail.com)  
+- CodePen: [Sakshi_Mane](https://codepen.io/sakshi_Mane)  
+- GitHub: [sakshi123862](https://github.com/sakshi123862)  
+- Twitter: [Sakshi1145](https://x.com/Sakshi1145)
+
+---
+
+Made with ❤️ using HTML & CSS
